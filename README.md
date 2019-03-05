@@ -1,0 +1,2 @@
+# IonicApp-seed
+Angular+Ionic
